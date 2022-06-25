@@ -1,0 +1,7 @@
+C:\Users\Lavern\Desktop\projects\AntivirusSample\AntivirusSample\bin\Debug\AntivirusSample.exe.config
+C:\Users\Lavern\Desktop\projects\AntivirusSample\AntivirusSample\bin\Debug\AntivirusSample.exe
+C:\Users\Lavern\Desktop\projects\AntivirusSample\AntivirusSample\bin\Debug\AntivirusSample.pdb
+C:\Users\Lavern\Desktop\projects\AntivirusSample\AntivirusSample\obj\Debug\AntivirusSample.csprojAssemblyReference.cache
+C:\Users\Lavern\Desktop\projects\AntivirusSample\AntivirusSample\obj\Debug\AntivirusSample.csproj.CoreCompileInputs.cache
+C:\Users\Lavern\Desktop\projects\AntivirusSample\AntivirusSample\obj\Debug\AntivirusSample.exe
+C:\Users\Lavern\Desktop\projects\AntivirusSample\AntivirusSample\obj\Debug\AntivirusSample.pdb
